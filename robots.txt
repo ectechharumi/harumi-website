@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harumi-trade.com/sitemap.xml
